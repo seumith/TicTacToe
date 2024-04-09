@@ -1,0 +1,17 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "This is a tictactoe game which you can play for timepass.",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tictactoe",
+    "game",
+    "webgames"
+  ],
+  "author": "Sumit Singh",
+  "license": "ISC"
+}
