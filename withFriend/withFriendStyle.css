@@ -126,10 +126,11 @@ body,html{
     align-items: center;
     border: 2px solid black;
     cursor: pointer;
+    transition: all ease-in-out 0.3s;
 }
 
 .reset:hover{
-    background-color: rgb(27, 26, 26);
+    background-color: rgb(39, 39, 39);
     color: white;
 }
 
@@ -142,10 +143,11 @@ body,html{
     align-items: center;
     border: 2px solid black;
     cursor: pointer;
+    transition: all ease-in-out 0.3s;
 }
 
 .clear:hover{
-    background-color: rgb(27, 26, 26);
+    background-color: rgb(39, 39, 39);
     color: white;
 }
 
