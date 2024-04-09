@@ -129,7 +129,8 @@ body,html{
 }
 
 .reset:hover{
-    background-color: rgb(187, 255, 191);
+    background-color: rgb(27, 26, 26);
+    color: white;
 }
 
 .clear{
@@ -144,7 +145,8 @@ body,html{
 }
 
 .clear:hover{
-    background-color: rgb(255, 187, 187);
+    background-color: rgb(27, 26, 26);
+    color: white;
 }
 
 .show-winner{
